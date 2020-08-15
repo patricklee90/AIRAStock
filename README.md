@@ -10,5 +10,7 @@ This Record down all my Stock Learning Journey
 
 [3 - Predict Netflix Price Using Python & ML (or Why Linear Regression won't work)](https://www.youtube.com/watch?v=hOLSGMEEwlI)
 
+[4 - Algorithmic Trading Strategy Using MACD & Python](https://www.youtube.com/watch?v=kz_NJERCgm8)
+
 ## Reference
 - Stock Record Download - [Link](https://finance.yahoo.com/)
