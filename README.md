@@ -8,7 +8,7 @@ This Record down all my Stock Learning Journey
 
 [2 - Stock Price Prediction Using Python & Machine Learning](https://www.youtube.com/watch?v=QIUxPv5PJOY&t=21s)
 
-[3 - Predict Netflix Price Using Python & ML](https://www.youtube.com/watch?v=hOLSGMEEwlI)
+[3 - Predict Netflix Price Using Python & ML (or Why Linear Regression won't work)](https://www.youtube.com/watch?v=hOLSGMEEwlI)
 
 ## Reference
 - Stock Record Download - [Link](https://finance.yahoo.com/)
