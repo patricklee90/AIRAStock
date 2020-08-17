@@ -12,5 +12,9 @@ This Record down all my Stock Learning Journey
 
 [4 - Algorithmic Trading Strategy Using MACD & Python](https://www.youtube.com/watch?v=kz_NJERCgm8)
 
+[5 - Algorithmic Trading Strategy Using Three Moving Averages & Python](https://www.youtube.com/watch?v=rO_cqa4x60o&list=PLxx3FfPJl2zC5DtudXPto4ND1YZh0jQfU&index=5)
+
+[6 - Trading Strategy Technical Analysis Using Python](https://www.youtube.com/watch?v=fxLsSax7rvY&list=PLxx3FfPJl2zC5DtudXPto4ND1YZh0jQfU&index=6)
+
 ## Reference
 - Stock Record Download - [Link](https://finance.yahoo.com/)
