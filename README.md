@@ -16,5 +16,7 @@ This Record down all my Stock Learning Journey
 
 [6 - Trading Strategy Technical Analysis Using Python](https://www.youtube.com/watch?v=fxLsSax7rvY&list=PLxx3FfPJl2zC5DtudXPto4ND1YZh0jQfU&index=6)
 
+[7 - Algorithmic Trading Strategy Using Python](https://www.youtube.com/watch?v=SEQbb8w7VTw&list=PLxx3FfPJl2zC5DtudXPto4ND1YZh0jQfU&index=7)
+
 ## Reference
 - Stock Record Download - [Link](https://finance.yahoo.com/)
