@@ -18,5 +18,7 @@ This Record down all my Stock Learning Journey
 
 [7 - Algorithmic Trading Strategy Using Python](https://www.youtube.com/watch?v=SEQbb8w7VTw&list=PLxx3FfPJl2zC5DtudXPto4ND1YZh0jQfU&index=7)
 
+[8 - Stock Market Sentiment Analysis Using Python & Machine Learning](https://www.youtube.com/watch?v=4OlvGGAsj8I&list=PLxx3FfPJl2zC5DtudXPto4ND1YZh0jQfU&index=8)
+
 ## Reference
 - Stock Record Download - [Link](https://finance.yahoo.com/)
