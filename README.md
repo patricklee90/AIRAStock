@@ -20,5 +20,7 @@ This Record down all my Stock Learning Journey
 
 [8 - Stock Market Sentiment Analysis Using Python & Machine Learning](https://www.youtube.com/watch?v=4OlvGGAsj8I&list=PLxx3FfPJl2zC5DtudXPto4ND1YZh0jQfU&index=8)
 
+[9 - Create Your Own Google Stock Prediction Program Using Python And Machine Learning](https://www.youtube.com/watch?v=KYc0EFN-VnM&list=PLxx3FfPJl2zC5DtudXPto4ND1YZh0jQfU&index=9)
+
 ## Reference
 - Stock Record Download - [Yahoo Finance](https://finance.yahoo.com/) , [Investing.com](https://www.investing.com/)
