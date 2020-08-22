@@ -22,5 +22,7 @@ This Record down all my Stock Learning Journey
 
 [9 - Create Your Own Google Stock Prediction Program Using Python And Machine Learning](https://www.youtube.com/watch?v=KYc0EFN-VnM&list=PLxx3FfPJl2zC5DtudXPto4ND1YZh0jQfU&index=9)
 
+[10 - How To Make Interactive Candlestick Charts Using Plotly & Python](https://www.youtube.com/watch?v=4fhBXFSS1lc&list=PLxx3FfPJl2zC5DtudXPto4ND1YZh0jQfU&index=10)
+
 ## Reference
 - Stock Record Download - [Yahoo Finance](https://finance.yahoo.com/) , [Investing.com](https://www.investing.com/)
