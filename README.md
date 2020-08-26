@@ -24,5 +24,7 @@ This Record down all my Stock Learning Journey
 
 [10 - How To Make Interactive Candlestick Charts Using Plotly & Python](https://www.youtube.com/watch?v=4fhBXFSS1lc&list=PLxx3FfPJl2zC5DtudXPto4ND1YZh0jQfU&index=10)
 
+[11 - Python For Finance Portfolio Optimization](https://www.youtube.com/watch?v=9fjs8FeLMJk&list=PLxx3FfPJl2zC5DtudXPto4ND1YZh0jQfU&index=11)
+
 ## Reference
 - Stock Record Download - [Yahoo Finance](https://finance.yahoo.com/) , [Investing.com](https://www.investing.com/)
