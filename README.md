@@ -26,5 +26,6 @@ This Record down all my Stock Learning Journey
 
 [11 - Python For Finance Portfolio Optimization](https://www.youtube.com/watch?v=9fjs8FeLMJk&list=PLxx3FfPJl2zC5DtudXPto4ND1YZh0jQfU&index=11)
 
+[12 - Predict FB with SVR](https://www.youtube.com/watch?v=C64BIMx7Slw&list=PLxx3FfPJl2zC5DtudXPto4ND1YZh0jQfU&index=12)
 ## Reference
 - Stock Record Download - [Yahoo Finance](https://finance.yahoo.com/) , [Investing.com](https://www.investing.com/)
